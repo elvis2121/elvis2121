@@ -1,7 +1,7 @@
 # Hello, I'm Elvis
 <a href="https://github.com/elvis2121"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 
-I am a cybersecurity practitioner with hands-on experience in web, API, mobile, network, wireless, and endpoint security labs. I enjoy turning technical testing evidence into clear findings, practical remediation, and repeatable detection or automation workflows.
+I am a cybersecurity engineer with hands-on experience in web, API, mobile, network, wireless, and endpoint security labs. I enjoy turning technical testing evidence into clear findings, practical remediation, and repeatable detection or automation workflows.
 
 ## Objective
 My goal is to contribute as a security analyst by applying evidence-driven investigation, vulnerability validation, network analysis, scripting, and clear technical reporting to help teams identify and reduce security risk.
