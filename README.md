@@ -2,7 +2,9 @@
 
 Nairobi, Kenya · Open to remote and on-site SOC Analyst (L2) and Detection Engineer roles · [Portfolio](https://elvis2121.github.io/cybersecurity-portfolio/) · [Email](mailto:elvisnjau@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elvis-njau-aa169695)
 
-I investigate alerts, build and validate detections, and automate response, and I write up every lab with step-by-step evidence.
+I am a BTL1- and SAL1-certified SOC analyst with 10 years in IT.
+
+I ran hotel IT at Kendas Hotels from 2016 to 2020. In 2021 I founded Mexil Tech Consultancy Limited, an IT support firm I still run. Since 2024 I have retrained in security operations, with about two years of hands-on SOC lab work. I investigate alerts, build and validate detections, and automate response. I write up every lab with step-by-step evidence.
 
 ## Top Projects
 
@@ -10,14 +12,18 @@ I investigate alerts, build and validate detections, and automate response, and 
 |---|---|
 | [SOC Automation and Detection Engineering Homelab](https://github.com/elvis2121/soc-automation-and-detection-engineering-homelab) | Validated high-risk and low-risk alert paths end to end: a Splunk correlation search triggers n8n, which opens a DFIR-IRIS case, enriches with VirusTotal, and on high risk runs Velociraptor collection and Wazuh host isolation. |
 | [Network Forensics and Snort Detection Engineering](https://github.com/elvis2121/network-forensics-and-snort-detection-engineering) | Traced keylogger exfiltration in packet captures and wrote three Snort rules, validated against Nmap `-sS` and ICMP traffic. |
-| [VulnBank Web, API, and Mobile Security Assessment](https://github.com/elvis2121/vulnbank-web-api-and-mobile-security-assessment) | Documented fourteen security issues across web, API, and Android surfaces with ordered proof. |
+| [VulnBank Web, API, and Mobile Security Assessment](https://github.com/elvis2121/vulnbank-web-api-and-mobile-security-assessment) | Documented fifteen security issues across web, API, and Android surfaces with ordered proof. |
 
 ## Certifications
 
-- AfricaHackon Cybersecurity Certificate — June 2026
-- TryHackMe SAL1 — Security Analyst Level 1 — August 2025
-- Google Cybersecurity Professional Certificate — December 2024
-- BSc Information Technology — July 2015
+| Credential | Issuer | Date | Verify |
+|---|---|---|---|
+| Blue Team Level 1 (BTL1) | Security Blue Team | Jul 2026 | [Credly](https://www.credly.com/badges/41c076e8-8c29-4741-a3ad-57a85d60a08b) |
+| Security Analyst Level 1 (SAL1) | TryHackMe | Aug 2025 | [Credly](https://www.credly.com/badges/580cd285-30ff-478d-8258-0a4c15fbf886) |
+| AfricaHackOn Cyber Security Swara | AfricaHackon Academy | Jun 2026 | [Credly](https://www.credly.com/badges/eb78ed46-4556-4d06-9858-a1cba5204a6a) |
+| AfricaHackon Cybersecurity Summit 2026 (attendee) | AfricaHackon Academy | Sep 2026 | [Credly](https://www.credly.com/badges/91d77d5a-8203-4498-b2f5-4b68399a22b1) |
+
+**Education:** BSc Information Technology, Jomo Kenyatta University of Agriculture and Technology (JKUAT).
 
 ## Skills
 
