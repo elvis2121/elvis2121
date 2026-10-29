@@ -20,7 +20,6 @@ I ran hotel IT at Kendas Hotels from 2016 to 2020. In 2021 I founded Mexil Tech 
 |---|---|---|---|
 | Blue Team Level 1 (BTL1) | Security Blue Team | Jul 2026 | [Credly](https://www.credly.com/badges/41c076e8-8c29-4741-a3ad-57a85d60a08b) |
 | Security Analyst Level 1 (SAL1) | TryHackMe | Aug 2025 | [Credly](https://www.credly.com/badges/580cd285-30ff-478d-8258-0a4c15fbf886) |
-| Google Cybersecurity Professional Certificate | Google / Coursera | Dec 2024 | [Coursera](https://coursera.org/account/accomplishments/specialization/certificate/L6AZEQAO3U3O) |
 | AfricaHackOn Cyber Security Swara | AfricaHackon Academy | Jun 2026 | [Credly](https://www.credly.com/badges/eb78ed46-4556-4d06-9858-a1cba5204a6a) |
 | AfricaHackon Cybersecurity Summit 2026 (attendee) | AfricaHackon Academy | Sep 2026 | [Credly](https://www.credly.com/badges/91d77d5a-8203-4498-b2f5-4b68399a22b1) |
 
